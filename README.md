@@ -27,5 +27,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-&nbsp;
-![github](figures/github.png)
+
+![github](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png)
+
